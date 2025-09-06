@@ -21,7 +21,7 @@ This project is built with:
 
 1. Clone the repository:
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/sudhansu-24/restock.git
 ```
 
 2. Navigate to the project directory:
