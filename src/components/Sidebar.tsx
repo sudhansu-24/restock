@@ -56,7 +56,7 @@ export function Sidebar() {
           </div>
           <div>
             <h1 className="text-lg font-bold text-dashboard-nav-foreground">
-              SmartStock
+              ReStock
             </h1>
             <p className="text-xs text-dashboard-nav-foreground/70">
               AI Dead Stock Manager
